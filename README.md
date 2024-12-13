@@ -1,4 +1,17 @@
 # Clean-Code
-Delete empty lines and comments from ur python script
+**New Version Includes:**
 
-Join my discord
+- Multi-language support: Python, CSS, HTML, JS, and JSON
+- Restore function
+- Multi-file cleaning (Cleans all subfolders in a single path that contain the languages mentioned above in multi-language support)
+- Better Logging
+
+
+
+Removes unnecessary lines, imports, comments, and debugging code.
+
+NOTE: Removing debugging code may result in errors in your code.
+
+Join my discord:https://discord.gg/zsGTqgnsmK
+
+My Website: thezperformance.de
