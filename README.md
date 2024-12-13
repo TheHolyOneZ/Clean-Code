@@ -12,6 +12,8 @@ Removes unnecessary lines, imports, comments, and debugging code.
 
 NOTE: Removing debugging code may result in errors in your code.
 
+V2: https://github.com/TheHolyOneZ/Clean-Code/releases/tag/Clean_Code
+
 Join my discord:https://discord.gg/zsGTqgnsmK
 
 My Website: thezperformance.de
